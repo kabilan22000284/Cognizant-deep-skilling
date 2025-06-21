@@ -39,5 +39,6 @@ public class Program
 }
 ```
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/ff646e1b-4881-4078-9087-8a4ac4b80f69)
+![image](https://github.com/user-attachments/assets/b9b10e9c-7031-40de-9eab-b071919d9e6a)
+
 
